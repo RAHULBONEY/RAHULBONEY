@@ -1,4 +1,4 @@
-[![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png)
+![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png)
 <h1 align="center">Hi 👋, I'm Rahul Boney</h1>
 <h3 align="center">🌐 I'm a coding enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
