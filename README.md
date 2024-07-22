@@ -1,3 +1,5 @@
+Sure, here’s an enhanced and beautified version of your GitHub introduction page:
+
 ![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png)
 <h1 align="center">Hi 👋, I'm Rahul Boney</h1>
 <h3 align="center">🌐 I'm a coding enthusiast.</h3>
@@ -7,15 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/boneyrahul" target="blank"><img src="https://img.shields.io/twitter/follow/boneyrahul?logo=twitter&style=for-the-badge" alt="boneyrahul" /></a> </p>
 
-- I am currently working on building my own OS using Golang.
-
-- 🌱 I’m currently learning Russt.
-
-- 💬 Passionate About:1)Building systems that scale ,(2)Low level dev ,(3) FullStack and finally (4)Reading Docs
-
-- 📫 How to reach me **rahulboney14@gmail.com**
-
-
+- 🔧 I am currently working on building my own OS using Golang.
+- 🌱 I’m currently learning Rust.
+- 💬 Passionate About: 
+  - Building systems that scale
+  - Low-level development
+  - Full-stack development
+  - Reading documentation
+- 📫 How to reach me: **rahulboney14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +25,12 @@
 <a href="https://instagram.com/rahulboney_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulboney_7" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p>1)Flutter</p><br><p>2)React</p><br><p>3)Go</p><br><p>4)Python</p><br><p>5)JS</p><br><p>many more...</p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+<p>...and many more!</p>
