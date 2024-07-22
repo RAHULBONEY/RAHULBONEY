@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Russt.
 
-- 💬 Passionate About:1)Building systems that scale ,(2)Low level dev ,(3) FullStack and finally (4)Readinf Docs
+- 💬 Passionate About:1)Building systems that scale ,(2)Low level dev ,(3) FullStack and finally (4)Reading Docs
 
 - 📫 How to reach me **rahulboney14@gmail.com**
 
