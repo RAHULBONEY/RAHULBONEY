@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahulboney14@gmail.com**
 
-- ⚡ Fun fact **I hoop around.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
