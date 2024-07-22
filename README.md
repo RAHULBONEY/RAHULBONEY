@@ -27,8 +27,3 @@
 <h3 align="left">Languages and Tools</h3>
 <p>1)Flutter</p><br><p>2)React</p><br><p>3)Go</p><br><p>4)Python</p><br><p>5)JS</p><br><p>many more...</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulboney&show_icons=true&locale=en&layout=compact" alt="rahulboney" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulboney&show_icons=true&locale=en" alt="rahulboney" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulboney&" alt="rahulboney" /></p>
