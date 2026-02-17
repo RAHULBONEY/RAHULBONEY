@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulboney&label=Profile%20views&color=0e75b6&style=flat" alt="rahulboney" /> </p>
 
-<p align="left"> <a href="https://twitter.com/boneyrahul" target="blank"><img src="https://img.shields.io/twitter/follow/boneyrahul?logo=twitter&style=for-the-badge" alt="boneyrahul" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/boneyrahul" target="blank"><img src="https://img.shields.io/twitter/follow/boneyrahul?logo=twitter&style=for-the-badge" alt="boneyrahul" /></a> </p> -->
 
 - 🔧 I am currently working on building my own OS using Rust.
 - 🌱 I’m currently learning Rust.
